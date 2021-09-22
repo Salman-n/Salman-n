@@ -1,6 +1,9 @@
 <h2 align="center">Hi 👋, I'm Salman Wiryansyah</h2>
 <h3 align="center">A Learner</h3>
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Salman-n)
+[![Github](https://img.shields.io/github/followers/Salman-n?label=Follow&style=social)](https://github.com/Salman-n)
+
 <a href="https://twitter.com/SalmanWiryansy2" target="blank"><img align="left" src="icons/twitter.svg" alt="salman-n" width="22px" /></a>
 <a href="https://www.linkedin.com/in/salmanwiryansyah/" target="blank"><img align="left" src="icons/linkedin.svg" alt="salman-n" width="22px" /></a>
   <a href="https://t.me/nrusetski">
@@ -8,6 +11,7 @@
 <a href="https://www.facebook.com/mansal.mansal.39" target="blank"><img align="left" src="icons/facebook.svg" alt="salman-n" width="22px" /></a>
 <a href="https://www.instagram.com/man_fwezzt/" target="blank"><img align="left" src="icons/instagram.svg" alt="salman-n" width="22px" /></a>
 <br />
+
 ### I am...
 * 🎓 Student at Sebelas Maret Surakarta University
 * 👨‍💻 Front-End Developer at **[Vistech Indonesia, LLC](https://vistechindonesia.com/)**
@@ -21,4 +25,14 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
 </p>
+<br />
+<h2> My Activities</h2>
+<p align="left">
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Salman-n&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-n&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+  </p>
 
