@@ -27,14 +27,6 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
 </p>
 <br />
-<h2> My Activities</h2>
-<p align="left">
-<a href="https://github.com/Pepyn0/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Salman-n&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/Pepyn0/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-n&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
-  </p>
+
   
 
