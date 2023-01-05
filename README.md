@@ -15,7 +15,7 @@
 
 ### I am...
 * 🎓 Student at Sebelas Maret Surakarta University
-* 👨‍💻 Front-End Developer at **[Vistech Indonesia, LLC](https://vistechindonesia.com/)**
+* 👨‍💻 Part-Timer Job As Web Dev at PDAM Cileungsi**
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="left">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ > </a>
