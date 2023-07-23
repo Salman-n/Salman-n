@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Salman Wiryansyah</h2>
 <h3 align="center">A Learner</h3>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Salman-n)
+
 [![Github](https://img.shields.io/github/followers/Salman-n?label=Follow&style=social)](https://github.com/Salman-n)
 
 ### Follow me
